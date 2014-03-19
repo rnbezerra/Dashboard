@@ -1,0 +1,18 @@
+﻿#MainStage {
+    height:100%;
+    width:100%;
+    
+    display:block;
+    position:relative;
+    float:right;
+    /*margin:10px 10px;*/
+    background:#475F77;
+}
+
+    #MainStage .StageUnit {
+        background: #f00;
+        
+        display:block;
+        position:relative;
+        float:none;
+    }
